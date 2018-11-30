@@ -45,6 +45,8 @@ flutter:
     - assets/prosecco.png
     - assets/urban_riesling.png
     - assets/vedernikov.png
+    - assets/azumbre.png
+    - assets/hardy.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

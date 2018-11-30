@@ -4,8 +4,9 @@ import '../product_manager.dart';
 
 class ProductsPage extends StatelessWidget {
   final List<Map<String, dynamic>> products;
+  final List<String> basicTags;
 
-  ProductsPage(this.products);
+  ProductsPage(this.products, this.basicTags);
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +14,12 @@ class ProductsPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Paper Wines'),
       ),
-      body: ProductManager(products),
+      body: Column(
+        children: <Widget>[
+          Container(),
+          ProductManager(products),
+        ],
+      ) 
     );
   }
 }
