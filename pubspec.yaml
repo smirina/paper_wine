@@ -47,6 +47,52 @@ flutter:
     - assets/vedernikov.png
     - assets/azumbre.png
     - assets/hardy.png
+
+    - assets/albert.jpg
+    - assets/altos.jpg
+    - assets/aqui.jpg
+    - assets/armentia.jpg
+    - assets/bajoz.jpg
+    - assets/bataneros.jpg
+    - assets/bonavita.jpg
+    - assets/butterfly.jpg
+    - assets/cacada.jpg
+    - assets/camden.jpg
+    - assets/coach.jpg
+    - assets/delapierre.jpg
+    - assets/fanagoria-blanc.jpg
+    - assets/fetzer.jpg
+    - assets/feudo.jpg
+    - assets/gewurztraminer.jpg
+    - assets/gioiosa.jpg
+    - assets/grandnoir.jpg
+    - assets/hagn.jpg
+    - assets/haulashore.jpg
+    - assets/jaume.jpg
+    - assets/kokur.jpg
+    - assets/lago.jpg
+    - assets/linda.jpg
+    - assets/martini.jpg
+    - assets/mildiani.jpg
+    - assets/mira.png
+    - assets/montes.jpg
+    - assets/naia.jpg
+    - assets/nastl.jpg
+    - assets/pinotage.jpg
+    - assets/puklavec.jpg
+    - assets/riesling.jpg
+    - assets/rkatsiteli.jpg
+    - assets/rosso.jpg
+    - assets/segredos.jpg
+    - assets/seraph.jpg
+    - assets/simonsig.jpg
+    - assets/trapiche.jpg
+    - assets/turgau.jpg
+    - assets/valentin.jpg
+
+
+
+    
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
